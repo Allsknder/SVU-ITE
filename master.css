@@ -1,6 +1,7 @@
 table {
     font-family: Arial, Helvetica, sans-serif;
     border-spacing: 0;
+    margin: 20px auto;
 }
 caption {
     background: #08f;
