@@ -26,3 +26,6 @@ table td {
 .coordinator {
     color: red;
 }
+.Disabled {
+    color: #ddd;
+}
