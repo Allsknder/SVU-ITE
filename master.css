@@ -29,3 +29,6 @@ table td {
 .Disabled {
     color: #ddd;
 }
+.optimize-width {
+    width: fit-content;
+}
